@@ -8,6 +8,5 @@ for acesso in acessos_diarios:
     somaAcessos += acesso
     dias += 1
     if somaAcessos >= 1000000:
+        print(dias)
         break
-
-print(dias)
