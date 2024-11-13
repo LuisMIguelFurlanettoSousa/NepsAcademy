@@ -15,19 +15,20 @@ Este repositório contém soluções para os exercícios realizados na plataform
 ## Como Usar Este Repositório
 
 1. Clone o repositório:
-   ```bash
+   ```
    git clone https://github.com/seu-usuario/NepsAcademy.git
 Navegue até o diretório do exercício que deseja visualizar:
-bash
-Copiar código
-cd NepsAcademy/<pasta-do-exercicio>
+
+   ```
+   cd NepsAcademy/<pasta-do-exercicio>
+```
 Execute o código no seu ambiente de desenvolvimento ou terminal.
-Exemplos de Exercícios
-Iniciante: Lógica básica e estruturas de controle.
-Intermediário: Algoritmos e estruturas de dados simples.
-Avançado: Algoritmos complexos e problemas de maior dificuldade.
-Contribuições
+## Exemplos de Exercícios
+- **Iniciante**: Lógica básica e estruturas de controle.
+- **Intermediário**: Algoritmos e estruturas de dados simples.
+- **Avançado**: Algoritmos complexos e problemas de maior dificuldade.
+## Contribuições
 Contribuições são bem-vindas! Se você deseja adicionar melhorias ou corrigir erros, faça um fork do projeto e envie um pull request.
 
-Contato
+## Contato
 Para dúvidas ou sugestões, entre em contato pelo meu perfil GitHub.
