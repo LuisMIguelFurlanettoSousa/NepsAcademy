@@ -5,7 +5,7 @@ Este repositório contém soluções para os exercícios realizados na plataform
 ## Estrutura do Repositório
 
 - **Pasta de exercícios**: Cada exercício possui um arquivo separado, nomeado com o título do problema.
-- **Divisão por dificuldade ou tema**: Para facilitar a navegação, você pode organizar os arquivos em pastas como "Iniciante", "Intermediário", "Avançado".
+- **Divisão por dificuldade ou tema**: Para facilitar a navegação, você pode organizar os arquivos em pastas como "SuperFacil", "Facil", "Medio", "Dificil".
 
 ## Tecnologias Utilizadas
 
@@ -24,9 +24,9 @@ Navegue até o diretório do exercício que deseja visualizar:
 ```
 Execute o código no seu ambiente de desenvolvimento ou terminal.
 ## Exemplos de Exercícios
-- **Iniciante**: Lógica básica e estruturas de controle.
-- **Intermediário**: Algoritmos e estruturas de dados simples.
-- **Avançado**: Algoritmos complexos e problemas de maior dificuldade.
+- **SuperFacil / Facil**: Lógica básica e estruturas de controle.
+- **Medio**: Algoritmos e estruturas de dados simples.
+- **Dificil**: Algoritmos complexos e problemas de maior dificuldade.
 ## Contribuições
 Contribuições são bem-vindas! Se você deseja adicionar melhorias ou corrigir erros, faça um fork do projeto e envie um pull request.
 
